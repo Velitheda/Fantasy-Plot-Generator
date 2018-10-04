@@ -21,7 +21,7 @@ fun disaster(): String = randomElement(arrayOf("civil war", "poisoning", "politi
         "disaster", "famine", "war", "deadly plague", "invasion", "earthquake"))
 
 fun descriptor(): String = randomElement(arrayOf("devastating", "crafty", "shocking", "preventable", "cold-hearted",
-        "foreshadowed", "prophesied", "sunrising"))
+        "foreshadowed", "prophesied", "suprising"))
 
 fun twist(): String = randomElement(arrayOf("betrayal", "resurrection", "revelation", "confession", "flashback",
         "discovery", "death", "case of mistaken identity", "defeat", "injury", "irreversible magic spell", "lie",

@@ -19,5 +19,5 @@ At a pivotal moment, a preventable murder will occur. A map will keep showing up
 ```
 In a blue realm, a green naive princess must embark on a quest to retreive a happy lemon
 in order to save their kingdom from the threat of an imminent poisoning.
-At a pivotal moment, a sunrising resurrection will occur. A towel will keep showing up at odd times.
+At a pivotal moment, a suprising resurrection will occur. A towel will keep showing up at odd times.
 ```
